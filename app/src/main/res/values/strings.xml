@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sapper</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_record">Records</string>
+    <string name="win_toast">YOU WIN!</string>
+    <string name="lose_toast">YOU LOSE!</string>
+    <string name="field_size">Field Size</string>
+    <string name="bombs_amount">Bombs Amount</string>
+    <string name="rec_field_size">FIELD SIZE</string>
+    <string name="rec_score">SCORE</string>
+    <string name="rec_bombs">BOMBS</string>
+    <string name="database_name">recordDB</string>
+</resources>

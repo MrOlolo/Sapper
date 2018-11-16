@@ -1,0 +1,49 @@
+<resources>
+    <!--<activity_game>-->
+    <dimen name="fsi_marginTop">8dp</dimen>
+    <dimen name="fsi_marginStart">8dp</dimen>
+    <dimen name="fsi_marginBottom">8dp</dimen>
+    <dimen name="fsi_marginEnd">8dp</dimen>
+    <dimen name="fsi_textSize">15sp</dimen>
+
+    <dimen name="gs_textSize">20sp</dimen>
+    <dimen name="gs_marginTop">8dp</dimen>
+
+    <dimen name="fv_marginTop">8dp</dimen>
+
+    <dimen name="fab_marginBottom">4dp</dimen>
+
+    <dimen name="baBar_width">180dp</dimen>
+    <dimen name="baBar_marginBottom">64dp</dimen>
+
+    <dimen name="fsBar_width">180dp</dimen>
+    <dimen name="fsBar_marginBottom">64dp</dimen>
+
+    <dimen name="afb_textSize">15sp</dimen>
+    <dimen name="afb_marginEnd">8dp</dimen>
+    <dimen name="afb_marginStart">8dp</dimen>
+
+    <dimen name="abb_textSize">15sp</dimen>
+    <dimen name="abb_marginEnd">8dp</dimen>
+    <dimen name="abb_marginStart">8dp</dimen>
+
+    <dimen name="bai_textSize">15sp</dimen>
+    <dimen name="bai_marginEnd">8dp</dimen>
+    <dimen name="bai_marginBottom">8dp</dimen>
+    <dimen name="bai_marginTop">8dp</dimen>
+    <dimen name="bai_marginStart">8dp</dimen>
+    <!--</activity_game>-->
+
+    <!--<activity_record>-->
+    <dimen name="sizeH_textSize">20sp</dimen>
+    <dimen name="scoreH_textSize">20sp</dimen>
+    <dimen name="bombH_textSize">20sp</dimen>
+    <!--</activity_record>-->
+
+    <!--<record_item>-->
+    <dimen name="rfs_textSize">20sp</dimen>
+    <dimen name="rs_textSize">25sp</dimen>
+    <dimen name="rba_textSize">20sp</dimen>
+    <!--</record_item>-->
+
+</resources>
